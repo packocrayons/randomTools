@@ -1,0 +1,6 @@
+def parallel (values[]):
+	sum = 0
+	for value in values:
+		sum += 1/value
+	print 1/sum
+
